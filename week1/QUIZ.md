@@ -4,11 +4,11 @@
 
 ex) 스터디 리더는 (**양아름**) 입니다.
 
-1. var는 (global, function local scope) Scope, let/const는 (block, local, function local) Scope를 가진다.
-2. 세계 최초의 웹 브라우저는 (WWW(Word Wide Web)) 이다.
-3. JavaScript의 초기 이름은 (Mocha) 이며, (브랜든 아이크) 가 10일 만에 개발하였다.
-4. ES6는 년도를 붙여 (ES2015) 라고 부르기도 한다.
-5. ECMAScript 문서를 읽게 된다면, (스크립팅 언어 개발) 를 알 수 있고, JavaScript 문서를 읽게 된다면, (JavaScript의 활용법) 를 알 수 있다.
+1. var는 (`global, function local scope`) Scope, let/const는 (`block, local, function local`) Scope를 가진다.
+2. 세계 최초의 웹 브라우저는 (`WWW(Word Wide Web)`) 이다.
+3. JavaScript의 초기 이름은 (`Moch`) 이며, (`브랜든 아이크`) 가 10일 만에 개발하였다.
+4. ES6는 년도를 붙여 (`ES2015`) 라고 부르기도 한다.
+5. ECMAScript 문서를 읽게 된다면, (`스크립팅 언어 개발`) 를 알 수 있고, JavaScript 문서를 읽게 된다면, (`JavaScript의 활용법`) 를 알 수 있다.
 
 ### O / X 퀴즈 (만약 X라면 이유도 작성하면 좋아요!)
 
