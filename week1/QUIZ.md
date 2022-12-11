@@ -4,7 +4,7 @@
 
 ex) 스터디 리더는 (**양아름**) 입니다.
 
-1. var는 (`global, function local scope`) Scope, let/const는 (`block, local, function local`) Scope를 가진다.
+1. var는 (`global, function local scope`) Scope, let/const는 (`script, function local, block`) Scope를 가진다.
 2. 세계 최초의 웹 브라우저는 (`WWW(Word Wide Web)`) 이다.
 3. JavaScript의 초기 이름은 (`Moch`) 이며, (`브랜든 아이크`) 가 10일 만에 개발하였다.
 4. ES6는 년도를 붙여 (`ES2015`) 라고 부르기도 한다.
