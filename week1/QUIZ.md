@@ -22,8 +22,9 @@ X, 매주 금요일마다 진행됩니다.
    **답**: X, ES6이전에는 var만 존재했으며 ES6부터 const와 let이 만들어졌다
 
 3. const는 재할당이 가능하며, 재선언은 불가능하다.  
-   **답**: X, const는 재할당이 불가하다. <br/>
-   의문점: 브라우저의 콘솔창에서는 재선언이 가능한데 runJS에서는 재선언이 불가합니다. 혹시 이에 대해서 아시는 것이 있나요?<br/>
+   **답**: 
+   X, const는 재할당이 불가하다.  
+   의문점: 브라우저의 콘솔창에서는 재선언이 가능한데 runJS에서는 재선언이 불가합니다. 혹시 이에 대해서 아시는 것이 있나요?  
    ![스크린샷 2022-12-11 오후 1 15 06](https://user-images.githubusercontent.com/48895268/206887332-c7e360bb-795d-4bf9-b77d-996b4779a920.png)
 
 
@@ -43,7 +44,8 @@ let fruit = "orange";
 console.log(fruit); // ?
 ```
 
-**답**: SyntaxError: Identifier 'fruit' has already been declared. 또는 orange출력 ???? **위 OX퀴즈 3번의 의문점과 같습니다.**
+**답**: SyntaxError: Identifier 'fruit' has already been declared. 또는 orange출력?  
+**위 OX퀴즈 3번의 의문점과 같습니다.**
 
 2. 아래 `console.log(fruit)`에서는 어떤 값이 출력될까요?
 
@@ -60,7 +62,8 @@ function printFruit() {
 printFruit();
 ```
 
-**답**: pineapple그리고 orange. Var는 function local scope를 가지고 있어서 처음에는 'pineapple'이 출력되지만 뒤 조건문에서 var는 재선언이 가능하고 block에서는 선언이 불가능하니 그 윗단계인 function local에 있는 var furit를 대체하여 출력하게 된다.
+**답**: pineapple그리고 orange.  
+Var는 function local scope를 가지고 있어서 처음에는 'pineapple'이 출력되지만 뒤 조건문에서 var는 재선언이 가능하고 block에서는 선언이 불가능하니 그 윗단계인 function local에 있는 var furit를 대체하여 출력하게 된다.
 
 3. 아래 `console.log(b)`에서는 어떤 값이 출력될까요?
 
@@ -78,4 +81,5 @@ let b = a;
 console.log(b); // ?
 ```
 
-**답**: -10. 왜냐하면 두 번쨰 var에서 block은 안 되니 그 상위 scope에 접근하여 재선언 및 재할당으로 -10으로 되고, b는 a의 값을 복사. 그러나 block안에서 할당된 `let b = -20`는 상위 scope에 영향을 주지 않기에 -10이 출력됨.
+**답**: -10.  
+왜냐하면 두 번쨰 var에서 block은 안 되니 그 상위 scope에 접근하여 재선언 및 재할당으로 -10으로 되고, b는 a의 값을 복사. 그러나 block안에서 할당된 `let b = -20`는 상위 scope에 영향을 주지 않기에 -10이 출력됨.
