@@ -16,17 +16,16 @@ ex) 스터디는 매주 목요일마다 진행됩니다.
 X, 매주 금요일마다 진행됩니다.
 
 1. var는 Block Scope를 가진다.  
-   **답**: O
+   **답**: X, var는 global과 function local scope를 가진다.
 
 2. let은 ES6 이전에 만들어져 var와 구분없이 사용됐다.  
    **답**: X, ES6이전에는 var만 존재했으며 ES6부터 const와 let이 만들어졌다
 
 3. const는 재할당이 가능하며, 재선언은 불가능하다.  
-   **답**: 
+   **답**:
    X, const는 재할당이 불가하다.  
    의문점: 브라우저의 콘솔창에서는 재선언이 가능한데 runJS에서는 재선언이 불가합니다. 혹시 이에 대해서 아시는 것이 있나요?  
    ![스크린샷 2022-12-11 오후 1 15 06](https://user-images.githubusercontent.com/48895268/206887332-c7e360bb-795d-4bf9-b77d-996b4779a920.png)
-
 
 4. ECMAScript는 Netscape에서 자체적으로 만들었다.  
    **답**: X, ECMAScript는 ECMA의 주도 하에 만들어진 스크립팅 언의 표준이다. ECMAScript의 규격에 따라 만들어진 것이 JS이다.
