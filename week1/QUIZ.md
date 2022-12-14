@@ -4,7 +4,7 @@
 
 ex) 스터디 리더는 (**양아름**) 입니다.
 
-1. var는 (**Function**) Scope, let/const는 (**Block**) Scope를 가진다.
+1. var는 (**Global, Function local**) Scope, let/const는 (**Script, Function local, Block**) Scope를 가진다.
 2. 세계 최초의 웹 브라우저는 (**WorldWideWeb**) 이다.
 3. JavaScript의 초기 이름은 (**Mocha**) 이며, (**Brendan Eich**) 가 10일 만에 개발하였다.
 4. ES6는 년도를 붙여 (**ES2015**) 라고 부르기도 한다.
@@ -16,13 +16,13 @@ ex) 스터디는 매주 목요일마다 진행됩니다.
 X, 매주 금요일마다 진행됩니다.
 
 1. var는 Block Scope를 가진다.  
-   **답**: **X**
+   **답**: **X**, 빈칸 1번과 동일
 
 2. let은 ES6 이전에 만들어져 var와 구분없이 사용됐다.  
-   **답**: **X**
+   **답**: **X**, let은 var의 한계(무분별한 전역변수 문제)를 극복하기 위해 const와 함께 ES6에 도입된 개념
 
 3. const는 재할당이 가능하며, 재선언은 불가능하다.  
-   **답**: **X**
+   **답**: **X**, const는 재할당이 불가능
 
 4. ECMAScript는 Netscape에서 자체적으로 만들었다.  
    **답**: **X**
