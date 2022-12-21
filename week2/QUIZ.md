@@ -50,14 +50,14 @@ const isGenius = () => true; // 답:
 isGenius(); //답:
 ```
 
-1. 아래 `console.log(areum === copyAreum)`에서는 어떤 값이 출력될까요?
+2. 아래 `console.log(areum === copyAreum)`에서는 어떤 값이 출력될까요?
 
 ```javascript
 const areum = {
   name: '양아름',
   email: 'areumsheep@gmail.com',
 };
-const copyAreum = [...areum];
+const copyAreum = areum;
 
 console.log(areum === copyAreum);
 ```
