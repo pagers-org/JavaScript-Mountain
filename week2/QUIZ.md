@@ -39,7 +39,7 @@ X, 매주 금요일마다 진행됩니다.
 
 ```javascript
 10 + 30; // 답:
-('Hello!'); // 답:
+'Hello!'; // 답:
 
 const grade = 'B'; //답:
 grade; // 답:
