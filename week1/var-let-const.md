@@ -1,7 +1,9 @@
 # var / let / const
 
 > **Create Date**: 2022/12/09  
-> [노션에서 확인하기](https://areumsheep.notion.site/var-let-const-685a665d15e74ed0a65558d56c76230d)
+> **Update Date**: 2023/01/01
+>
+> [노션에서 확인하기](https://areumsheep.notion.site/var-let-const-321ed794561c4b20a7dd4577ae591422)
 
 자바스크립트에는 타입이 없습니다.
 그럼 변수 선언을 어떻게 해야할까요?

@@ -3,7 +3,7 @@
 > **Create Date**: 2022/12/09  
 > **Update Date**: 2022/12/13
 >
-> [노션에서 확인하기](https://areumsheep.notion.site/TDZ-d41b33b78f9d4081b27462fa68e36d78)
+> [노션에서 확인하기](https://areumsheep.notion.site/TDZ-49306ff786c448e9aa66e7539ee2be3c)
 
 호이스팅은 무엇일까요?
 **변수 선언을 최상단으로 올리는 것입니다.** 라고 하기엔 설명이 부족해보입니다.
