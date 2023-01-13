@@ -4,16 +4,18 @@
 > 같은 관심사의 사람들과 함께라면 금방 산 정상에 도달할 수 있을 거예요!
 
 ## 노션에서 모든 자료 확인하기
+
 https://areumsheep.notion.site/c93b2323b5c94393867cda05885abdbc
 
 ## 인원
 
-4명 (1~2명 변동 가능성 有)
+5명 (스터디장 포함)
 
 ## 날짜
 
-12/9(금) ~ 12/30(금)   
-금요일 오후 7시 (1~2시간 예정)
+**1차**: 2022.12.09(금) ~ 2022.12.30(금)  
+**2차**: 2023.01.20(금) ~ 2023.02.10(금)  
+금요일 오후 7시 ~ 9시
 
 ## 스터디 방식
 
@@ -29,7 +31,9 @@ https://areumsheep.notion.site/c93b2323b5c94393867cda05885abdbc
    - 답에 정답이 있지 않지만 발표한 내용에 벗어났다면 스터디원분이 리뷰로 확인할 예정이에요.
      - 스터디장은 무조건 확인할 예정이니 걱정마세요 😄
 
-**PR 템플릿 예시**
+### PR 템플릿 예시
+
+자세한 예시는 [이전 PR](https://github.com/FECrash/JavaScript-Mountain/pulls?q=is%3Apr+is%3Aclosed)을 확인하세요!
 
 ```markdown
 1. let/const/var의 차이는 무엇일까요?
@@ -37,8 +41,11 @@ https://areumsheep.notion.site/c93b2323b5c94393867cda05885abdbc
 3. 함수 스코프와 블록 스코프는 무엇일까요?
 ```
 
-## 1차 스터디 커리큘럼
+## 커리큘럼
 
+<details>
+<summary>이전 커리큘럼 확인하기</summary>
+ 
 1. JavaScript란?
    - JavaScript의 역사
    - ECMAScript와 JavaScript의 연관성
@@ -69,3 +76,41 @@ https://areumsheep.notion.site/c93b2323b5c94393867cda05885abdbc
    - 화살표 함수
    - 클로저 + 중첩 함수
    - 메모이제이션
+
+</details>
+
+---
+
+### 2차 스터디 커리큘럼
+
+1. 브라우저 렌더링 원리
+
+   - CPU / GPU
+   - Process / Thread
+   - DOM
+   - Chrome 브라우저에 URL 입력 시 일어나는 과정
+
+2. 자바스크립트 동작 원리
+
+   - Event loop
+   - Call stack
+   - Queue
+
+3. 비동기 프로그래밍
+
+   - promise
+   - asnyc / await
+
+4. 이터레이터 / 제너레이터
+
+   - 이터레이터의 동작 방법
+   - 제너레이터
+
+5. 웹 브라우저의 자바스크립트
+
+   - 네트워크
+     - CORS
+     - HTTP / HTTPS
+   - 스토리지
+     - Web Storage
+     - 쿠키
