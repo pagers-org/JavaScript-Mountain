@@ -1,7 +1,9 @@
 # ECMAScript와 JavaScript의 연관성
 
 > **Create Date**: 2022/12/09  
-> [노션에서 확인하기](https://areumsheep.notion.site/ECMAScript-JavaScript-4d15fef29a9c4b658b5e5691528f2cf7)
+> **Update Date**: 2023/01/01
+>
+> [노션에서 확인하기](https://areumsheep.notion.site/ECMAScript-JavaScript-a8caaaa4f32444408d67eaf3346b4efa)
 
 ES6, ES2016, ES2021 등등 ES가 들어가는 말들을 보신 적이 있을 겁니다.
 혹시 ES6가 무엇인지 설명할 수 있으신 분이 계실까요?

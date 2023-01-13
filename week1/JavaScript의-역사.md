@@ -1,11 +1,11 @@
 # JavaScript의 역사
 
 > **Create Date**: 2022/11/29  
-> **Update Date**: 2022/12/06
+> **Update Date**: 2023/01/01
 >
 > [JavaScript: the first 20 year](https://dl.acm.org/doi/pdf/10.1145/3386327)를 참고하여 작성되었으나, 오역이 있을 수 있습니다.
 >
-> [노션에서 확인하기](https://areumsheep.notion.site/JavaScript-91d8d800280741249226c44ffd0e768b)
+> [노션에서 확인하기](https://areumsheep.notion.site/JavaScript-5218abe7507848e0879d1db49c272512)
 
 ![**참고**: [https://buggyprogrammer.com/difference-between-java-and-javascript/](https://buggyprogrammer.com/difference-between-java-and-javascript/)](images/JavaScript의-역사/thumbnail.png)
 
