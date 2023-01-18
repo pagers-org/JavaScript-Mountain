@@ -60,7 +60,7 @@ let subject = {
 const setSubject = (math, english) => {
   // 여기에는 어떤 코드가 들어갈까요?
   // 힌트: 객체에서 다룬 TMI를 확인해보세요!
-  subject = { math, english };
+  subject = { math, english };  // 단축 프로퍼티
 };
 
 setSubject(40, 99);
