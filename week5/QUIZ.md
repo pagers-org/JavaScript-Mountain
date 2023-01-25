@@ -14,7 +14,7 @@ ex) 스터디 리더는 (양아름) 입니다.
 5. Main Thread는 HTML파일을 파싱하는 동안 리소스를 로드하는데 속도를 빠르게 하기 위해 (preload scanner)가 동시에 실행된다.
 6. Main Thread는 CSS를 파싱하여 DOM 트리와 비슷한 (레이아웃 트리)를 그린다.
 7. Main Thread는 요소의 크기, 위치, 모양 등을 갖는 (레이아웃) 단계에서 (레이아웃) 트리를 그린다.
-8. [DOM과 CSSOM을 렌더링 트리로 결합](https://web.dev/critical-rendering-path-render-tree-construction/)한다.
+8. DOM과 CSSOM을 렌더링 트리로 결합한다.
 9. (레이아웃)은 요소의 기하학적 속성(geometry)를 찾는 과정이다.
 10. (페인트단계)은 그리는 순서를 결정하는 과정이다. 레이아웃 트리를 기반으로 (페인트 레코드)를 만든다.
 
