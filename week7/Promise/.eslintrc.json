@@ -9,7 +9,10 @@
   "parserOptions": {
     "ecmaVersion": "latest"
   },
+  "ignorePatterns": ["__tests__/"],
   "rules": {
+    "no-unused-vars": "off",
+    "no-undef": "off",
     "indent": ["error", 2],
     "linebreak-style": ["error", "unix"],
     "quotes": ["error", "single"],
