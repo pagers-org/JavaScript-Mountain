@@ -63,7 +63,7 @@ let promise = new Promise(function (resolve, reject) {
   setTimeout(() => resolve(2), 1000);
 });
 
-promise.then(alert);
+promise.then((value) => console.log(value));
 ```
 
 3. 빈 칸에 코드를 작성하여 해당 함수가 정상적으로 작동되도록 만들어주세요.
